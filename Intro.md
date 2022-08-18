@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @S-i-d-negi
+- 👀 I’m interested in upskilling 
+- 🌱 I’m currently learning HTML, CSS, Javascript, Kotlin
+- 💞️ I’m new to programming and willing to learn
+- 📫 You can contact me on my email- Negisiddharth158@gmail.com
